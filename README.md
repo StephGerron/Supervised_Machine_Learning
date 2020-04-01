@@ -1,4 +1,4 @@
-# Supervised_Machine_Learning
+# Supervised Machine Learning to Assess Credit Risk
 
 ### Background
 
