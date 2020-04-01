@@ -6,7 +6,7 @@ Credit risk is an inherently unbalanced classification problem, as the number of
 
 ### Objectives
 
-The goals of this challenge are for you to:
+The goals of the challenge are:
 
     Implement machine learning models.
     Use resampling to attempt to address class imbalance.
